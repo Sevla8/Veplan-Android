@@ -1,7 +1,54 @@
 <resources>
     <string name="app_name">Veplan</string>
-    <string name="err_autonomy">Please enter a correct value</string>
-    <string name="err_batteryLevel">Please enter a correct value</string>
-    <string name="err_startDirection">Please fill this field</string>
-    <string name="stoptDirection">Please fill this field</string>
+
+    <string name="in_startDirection">Adresse de départ</string>
+    <string name="in_stopDirection">Adresse de départ</string>
+    <string name="in_departureTime">Heure d\'arrivée</string>
+    <string name="in_arrivingTime">Heure de départ</string>
+    <string name="in_customAutonomy">Autonomie personnalisée</string>
+    <string name="in_autonomy">Autonomie personnalisée en km</string>
+    <string name="in_batteryLevel">Pourcentage de charge de la batterie</string>
+    <string name="in_vehicule">Véhicule - Autonomie : </string>
+    <string name="in_km">km</string>
+
+    <string name="select_date">Sélectionner le jour</string>
+    <string name="select_time">Sélectionner l\'heure</string>
+    <string name="submit">Valider</string>
+
+    <string name="err_autonomy">Svp, choisissez une valeur correcte</string>
+    <string name="err_batteryLevel">Svp, choisissez une valeur inférieur à 100</string>
+    <string name="err_startDirection">Svp, remplissez ce champs</string>
+    <string name="err_stopDirection">Svp, remplissez ce champs</string>
+
+    <string name="cars_prompt">Sélectionnez un modèle</string>
+    <string-array name="cars_array">
+        <item>Audi e-tron - 400 km</item>
+        <item>BMW i3 – 285 km</item>
+        <item>Citroën C-Zero - 150 km</item>
+        <item>Citroën E-Mehari - 195 km</item>
+        <item>Chevrolet Bolt EV - 383 km</item>
+        <item>Ford Focus EV - 185 km</item>
+        <item>Hyundai Ioniq Electric - 280 km</item>
+        <item>Hyundai Kona Electric - 345 km</item>
+        <item>Jaguar I-Pace - 500 km</item>
+        <item>Kia e-Niro - 455 km</item>
+        <item>Kia e-Soul - 452 km</item>
+        <item>Kia Soul EV - 179 km</item>
+        <item>Nissan e-nv200 Evalia - 280 km</item>
+        <item>Nissan Leaf - 242 km</item>
+        <item>Nissan Leaf 2 – 378 km</item>
+        <item>Mitsubishi i-MIEV - 150 km</item>
+        <item>Peugeot iOn - 150 km</item>
+        <item>Peugeot Partner Tepee Electric - 170 km</item>
+        <item>Renault Zoé - 317 km</item>
+        <item>Smart ForTwo Electric Drive - 160 km</item>
+        <item>Smart ForFour Electric Drive -  160 km</item>
+        <item>Tesla Model S - 490 km</item>
+        <item>Tesla Model X - 417 km</item>
+        <item>Tesla Model 3 – 560 km</item>
+        <item>Toyota Mirai - 550 km</item>
+        <item>Volkswagen e-up! - 160 km</item>
+        <item>Volkswagen e-Golf - 200 km</item>
+    </string-array>
+
 </resources>
