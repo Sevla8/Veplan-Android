@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Veplan</string>
+    <string name="err_autonomy">Please enter a correct value</string>
+    <string name="err_batteryLevel">Please enter a correct value</string>
+    <string name="err_startDirection">Please fill this field</string>
+    <string name="stoptDirection">Please fill this field</string>
+</resources>
